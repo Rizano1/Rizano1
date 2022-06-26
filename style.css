@@ -1,0 +1,28 @@
+.img {
+    background-size: 1441.55px;
+    height: 960.14px;
+    background-image: url("assets/main-bg.jpg");
+    background-repeat: no-repeat;
+}
+.navedit {
+    width: 100%;
+}
+.textedit {
+    padding-top: 313.7px;
+}
+.img h1 {
+    font-size: 72px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    line-height: 83px;
+    letter-spacing: 3px;
+}
+.img h3 {
+    font-weight: 400;
+    margin-top: 35px;
+}
+
+.img button {
+    background-color: #FFB548;
+    font-family: sans-serif;
+}

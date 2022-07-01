@@ -1,15 +1,18 @@
-.img {
-    background-size: 1441.55px;
-    height: 960.14px;
-    background-image: url("assets/main-bg.jpg");
-    background-repeat: no-repeat;
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+/* font */
+/* nav */
+a {
+    font-family: 'Open Sans', sans-serif;
 }
+
 .navedit {
     width: 100%;
 }
-.textedit {
-    padding-top: 313.7px;
-}
+/* nav */
+
+/* jumbotron */
+
 .img h1 {
     font-size: 72px;
     font-family: Arial, Helvetica, sans-serif;
@@ -20,9 +23,50 @@
 .img h3 {
     font-weight: 400;
     margin-top: 35px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .img button {
     background-color: #FFB548;
-    font-family: sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+.img {
+    display: grid;
+    place-content: center;
+    background-position: center;
+    background-size: cover;
+    height: 960.14px;
+    background-image: url("assets/main-bg.jpg");
+    background-repeat: no-repeat;
+}
+
+/* jumbotron */
+
+/* gallery */
+
+.gallery {
+    display: grid;
+    align-items: center;
+    background-image: url(assets/the-games-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1051.43px;
+    background-position: center;
+}
+ .slider-text {
+    padding-top: 0px;
+    padding-bottom: 400px;
+    padding-right: 0px;
+    padding-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.slider-text h3 {
+    font-size: 24px;
+    font-weight: 400;
+
+}
+.slider-text h1 {
+    font-size: 56px;
+    font-weight: 400;
 }

@@ -54,11 +54,14 @@ a {
     background-position: center;
 }
  .slider-text {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.posisi {
     padding-top: 0px;
     padding-bottom: 400px;
     padding-right: 0px;
     padding-left: 100px;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 .slider-text h3 {
@@ -70,3 +73,50 @@ a {
     font-size: 56px;
     font-weight: 400;
 }
+/* gallery */
+
+/* sec3 */
+.sec3 {
+    background-image: url(assets/features.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 870.26px;
+}
+
+.row img {
+    width: 40px;
+}
+
+.fitur-text {
+    color: #FFB548;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.fitur {
+    margin-top: 167px;
+}
+
+.fitur-posisi {
+    margin-top: 71px;
+}
+
+.fitur-posisi-2 {
+    margin-top: 28px
+}
+
+/* sec3 */
+
+/* sec4 */
+
+.sec4 {
+    background-image: url(assets/requirements.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 960.16px;
+}
+
+/* sec4 */

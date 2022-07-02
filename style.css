@@ -1,6 +1,7 @@
 /* font */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 /* font */
+
 /* nav */
 a {
     font-family: 'Open Sans', sans-serif;
@@ -26,7 +27,7 @@ a {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.img button {
+.mybutton {
     background-color: #FFB548;
     font-family: 'Open Sans', sans-serif;
 }
@@ -84,7 +85,7 @@ a {
     height: 870.26px;
 }
 
-.row img {
+.bullets {
     width: 40px;
 }
 
@@ -117,6 +118,78 @@ a {
     background-size: cover;
     background-position: center;
     height: 960.16px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
+.sec4-posisi header {
+    padding-top: 146px;
+    text-align: center;
+}
+
+.sec4-posisi h3 {
+    font-size: 14px;
+}
+
+.sec4-posisi2 {
+    padding-top: 55px;
+    padding-bottom: 20px;
+    font-size: 56px;
+} 
+
+.opensans {
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
 /* sec4 */
+
+/* sec5 */
+
+.sec-5 {
+    display: grid;
+    align-items: center;
+    background-image: url(assets/top-score-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 960.16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img-card {
+    border-radius: 100%;
+}
+
+.twitter-card {
+    width: 18px;
+}
+
+.card-title {
+    color: #FFB548;
+}
+
+.card-posisi {
+    margin-left: 160px;
+}
+
+.font-top {
+    font-size: 56px;
+}
+
+/* sec5 */
+
+/* sec6 */
+
+.sec-6 {
+    display: grid;
+    align-items: center;
+    background-image: url(assets/newsletter.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 959.87px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* sec6 */

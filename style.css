@@ -159,6 +159,7 @@ a {
 
 .img-card {
     border-radius: 100%;
+    width: 60px;
 }
 
 .twitter-card {
@@ -190,6 +191,40 @@ a {
     background-position: center;
     height: 959.87px;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.newsletter-text h3 {
+    font-size: 24px;
+}
+
+.newsletter-text h1 {
+    font-size: 65px;
+}
+
+.form-control {
+    width: 367px;
+    display: inline-block;
+}
+
+.label {
+    display: block;
+}
+
+.sub-btn {
+    display: inline;
+}
+
+.form-group {
+    display: inline-block;
+}
+
+.navend {
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.privacy-text {
+    font-weight: 700;
 }
 
 /* sec6 */
